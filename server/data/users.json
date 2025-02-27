@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3f09a30d-48fd-4917-8a26-76a258ed4cd1",
+    "name": "Ali Ahmed",
+    "email": "email@gmail.com",
+    "password": "$2a$10$WH4fxTbJL2fV6I9xciw5QOgXRGbcRFwMdRTych6d7cZuR71wCinNG",
+    "role": "user",
+    "createdAt": "2025-02-27T06:43:58.205Z"
+  },
+  {
+    "id": "adda553f-fbae-4f01-b727-c4b6812ff21c",
+    "name": "test1",
+    "email": "test1@gmail.com",
+    "password": "$2a$10$ljwXIKKUta4MRqz5VJaq5.n8vDzQ5Mv57p.8FJ.rjU.d6/N22I/Cy",
+    "role": "admin",
+    "createdAt": "2025-02-27T09:20:49.753Z"
+  },
+  {
+    "id": "5ad9ae66-8cb1-4647-9228-129e0647b04e",
+    "name": "test2",
+    "email": "tes2@gmail.com",
+    "password": "$2a$10$YXmtnccB6gBTnrxCAfoa/eSg9TxRW/cFIvuZpqP0nqu2IEaUIpWPy",
+    "role": "client",
+    "createdAt": "2025-02-27T09:25:19.981Z"
+  },
+  {
+    "id": "0a111e0b-f6c2-484c-af0e-104e04981289",
+    "name": "test3",
+    "email": "test3@gmail.com",
+    "password": "$2a$10$06Gv.OQAFBR8z83Ad5jFVOFEqphxjClJt4pp/F34jLLv48uQu9Khm",
+    "role": "user",
+    "createdAt": "2025-02-27T09:35:19.364Z"
+  },
+  {
+    "id": "0b6ecc4a-7644-456c-a440-31e1e0c3e134",
+    "name": "test4",
+    "email": "test4@gmail.co",
+    "password": "$2a$10$ZVRRgaI19nygalziq71SHONnZRxmaXajJukqfpJuwK4.3u43IJWt2",
+    "role": "client",
+    "createdAt": "2025-02-27T13:49:08.932Z"
+  }
+]
