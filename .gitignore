@@ -1,13 +1,17 @@
-# Ignore node_modules folder
-node_modules/
+# Ignore node_modules in both front and back folders
+full-version/node_modules/
+server/node_modules/
 
 # Ignore environment variables
-.env
+full-version/.env
+server/.env
 
 # Ignore build/output directories
-dist/
-out/
-build/
+full-version/dist/
+full-version/.next/
+full-version/out/
+server/build/
 
-# Ignore log files
-*.log
+# Ignore logs
+front/*.log
+server/*.log
